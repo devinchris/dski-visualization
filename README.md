@@ -1,9 +1,9 @@
 # Visualisierung in der EDA – Anhang zur Präsentation
 
-**Modul:** Data Science & KI · 1. Semester
+**Modul:** Data Science & KI
 
-Dieses Repository enthält den interaktiven Anhang zur Präsentation über Datenvisualisierung.  
-Als Datensatz wird der bekannte **Titanic-Datensatz** verwendet.
+Das Repo enthält den interaktiven Anhang zur Präsentation über Datenvisualisierung.  
+Als Datensatz wird der *Titanic-Datensatz* verwendet.
 
 ---
 
@@ -28,3 +28,9 @@ jupyter notebook titanic.ipynb
 ```
 
 > **Kein Python installiert?** Einfach `titanic.html` im Browser öffnen – kein Setup nötig.
+
+### Dependencies
+- jupyter
+- pandas
+- matplotlib
+- seaborn
